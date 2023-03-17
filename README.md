@@ -6,6 +6,3 @@ Complementary analysis: Do attributes contribution changed the observed inter-mo
 
 # email address
 noyer.estelle@gmail.com
-
-# video link
-https://share.vidyard.com/watch/uvCYLmsf8sLc1SKPrJZscm?
